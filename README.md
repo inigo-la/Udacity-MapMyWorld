@@ -19,7 +19,7 @@ It can be found here: https://github.com/introlab/rtabmap_ros
 
 ### How to build project
 
-Clone to src folder of a ROS catkin workspace and build with catkin_build.
+Copy my_robot directory to a working catkin workspace src directory and build with catkin_build.
 
 
 ### How to run project
